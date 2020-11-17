@@ -1,0 +1,31 @@
+* {
+    font-family:'Segoe Script', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+body {
+    background-color: aliceblue;
+}
+img {
+    width: 1rem;
+    height: 1rem;
+}
+h1 {
+    font-size: large;
+}
+button.normie {
+    background-color: transparent;
+    border: transparent;
+    width: 0.5rem;
+    cursor: pointer;
+}
+button.right {
+    padding-left: 2rem;
+    left:2rem;
+}
+button.left {
+    padding-left: 2rem;
+    transform: scaleX(-1);
+}
+button:active {
+    padding-left: 2.2rem;
+}
