@@ -1,4 +1,4 @@
-# HTML-GUI-Calculator
+## HTML-GUI-Calculator
 A HTML Calculator made using the concepts of HTML, CSS and JavaScript
 
 Made by - `HyperFluxx`
